@@ -1,0 +1,23 @@
+{
+  "name": "test-npm-pkg-add",
+  "version": "1.0.0",
+  "description": "a project test npm pkg publish",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lian01chen/test-npm-pkg-add.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "lian01chen <chenlian619@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lian01chen/test-npm-pkg-add/issues"
+  },
+  "homepage": "https://github.com/lian01chen/test-npm-pkg-add#readme"
+}

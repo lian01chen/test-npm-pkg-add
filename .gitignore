@@ -1,0 +1,12 @@
+node_modules/
+.__tmp/
+.idea/
+*.map
+*.zip
+dist/
+.DS_Store
+/.vscode
+/**/.babelrc
+/**/package-lock.json
+/**/eslint-report.html
+/**/out/
